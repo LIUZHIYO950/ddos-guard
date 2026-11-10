@@ -286,3 +286,7 @@ lads-publish/
 - 发现安全问题？请按 [SECURITY.md](SECURITY.md) 的流程报告，请勿直接公开漏洞细节。
 
 [MIT](LICENSE) © 2026 LADS Contributors
+
+---
+贡献人员名单：
+项目推广-Lena
